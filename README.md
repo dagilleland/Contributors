@@ -6,6 +6,5 @@ Please remember to modify all links and references for your own site.
 
 This is published under an [MIT license](https://tldrlegal.com/license/mit-license "in plain English").
 
-<script>
-console.log('hello');
+<script src='adhoc.js'>
 </script>
