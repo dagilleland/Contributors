@@ -1,9 +1,9 @@
 ﻿---
 funny: An .md file meets up with Mr. Hyde in a bar...
 ---
-{%funny%}
+{% funny %}
 or
-{{funny}}
+{{ funny }}
 
 #{{site.github.project_title}}
 The following information is available from the [Repository Metadata on GitHub pages](https://help.github.com/articles/repository-metadata-on-github-pages):
