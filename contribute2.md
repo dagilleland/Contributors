@@ -1,4 +1,7 @@
-﻿#{{site.github.project_title}}
+﻿---
+---
+
+#{{site.github.project_title}}
 The following information is available from the [Repository Metadata on GitHub pages](https://help.github.com/articles/repository-metadata-on-github-pages):
 
 - **build_revision** &ndash; {%site.github.build_revision%}
