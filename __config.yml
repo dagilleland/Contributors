@@ -1,2 +1,2 @@
-markdown: kramdown
-include: contribute2.md
+auto: true
+markdown: rdiscount
