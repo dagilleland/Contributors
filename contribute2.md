@@ -1,12 +1,13 @@
 ﻿#{{site.github.project_title}}
 The following information is available from the [Repository Metadata on GitHub pages](https://help.github.com/articles/repository-metadata-on-github-pages):
-- **build_revision** &ndash; {{site.github.build_revision}}
+
+- **build_revision** &ndash; {%site.github.build_revision%}
 - **pages_env** &ndash; {{site.github.pages_env}}
 - **project_title** &ndash; {{site.github.project_title}}
 - **project_tagline** &ndash; {{site.github.project_tagline}}
 - **owner_name** &ndash; {{site.github.owner_name}}
 - **owner_url** &ndash; {{site.github.owner_url}}
-- **owner_gravatar_url** &ndash; {{site.github.owner_gravatar_url}}
+- **owner_gravatar_url** &ndash; {%site.github.owner_gravatar_url%}
 - **repository_url** &ndash; {{site.github.repository_url}}
 - **repository_nwo** &ndash; {{site.github.repository_nwo}}
 - **repository_name** &ndash; {{repository_name}}
